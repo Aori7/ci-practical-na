@@ -4,8 +4,8 @@ STUDENT_INITIALS = "NA"
 def add(a, b):
     return a + b
 
-
 def subtract(a, b):
+    # Keep subtraction distinct from addition.
     return a - b
 
 
