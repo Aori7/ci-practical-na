@@ -1,4 +1,4 @@
-# CI Practical — AB
+# CI Practical — NA
 A guided CI practical using Python and GitHub Actions.
 
 Student initials: NA
